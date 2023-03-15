@@ -1,0 +1,52 @@
+name: Data
+
+on:
+    workflow_dispatch: {}
+
+    push:
+        branches: [main]
+        paths:
+            - ".github/workflows/main.yml"
+            - "scripts/*"
+
+    schedule:
+        - cron: "0 * * * *"
+
+jobs:
+    update:
+        name: Update
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v2
+
+            - uses: actions/checkout@v3
+              with:
+                  repository: is-a-dev/register
+                  path: main
+
+            - uses: actions/setup-node@v2
+              with:
+                  node-version: 16
+
+            - name: Set Git Config
+              run: |
+                  git config --global user.email "bot@williamharrison.dev"
+                  git config --global user.name "WDH-Bot"
+
+            - name: Run Script
+              run: node scripts/update.js
+
+            - name: Commit
+              run: |
+                  current_file=$(cat index.json)
+                  previous_file=$(git show HEAD:index.json)
+                  if [ "$current_file" = "$previous_file" ]; then
+                      echo "index.json has not changed, exiting process."
+                      exit 1
+                  else
+                      echo "index.json has changed, continuing with process."
+                      git add index.json
+                      git commit -m "Update Data"
+                      git push
+                  fi
