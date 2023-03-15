@@ -19,9 +19,6 @@ fs.readdir(directoryPath, function (err, files) {
             for (const item of dataArray) {
                 item.domain = path.parse(file).name + ".is-a.dev";
                 item.owner.email = item.owner.email.replace(/@/, " (at) ");
-
-                if(item.description) delete item.description;
-                if(item.repo) delete item.repo;
             }
 
             combinedArray = combinedArray.concat(dataArray);
