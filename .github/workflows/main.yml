@@ -39,14 +39,6 @@ jobs:
 
             - name: Commit
               run: |
-                  current_file=$(cat index.json)
-                  previous_file=$(git show HEAD:index.json)
-                  if [ "$current_file" = "$previous_file" ]; then
-                      echo "index.json has not changed, exiting process."
-                      exit 1
-                  else
-                      echo "index.json has changed, continuing with process."
-                      git add index.json
-                      git commit -m "Update Data"
-                      git push
-                  fi
+                  git add index.json
+                  git commit -m "Update Data"
+                  git push
