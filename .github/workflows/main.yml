@@ -29,16 +29,13 @@ jobs:
               with:
                   node-version: 16
 
-            - name: Configure Git
-              run: |
-                  git config --global user.email "bot@williamharrison.dev"
-                  git config --global user.name "WDH-Bot"
-
             - name: Run Script
               run: node scripts/update.js
 
             - name: Commit
               run: |
+                  git config --global user.email "bot@williamharrison.dev"
+                  git config --global user.name "WDH-Bot"
                   git add index.json
                   git commit -m "Update Data"
                   git push
