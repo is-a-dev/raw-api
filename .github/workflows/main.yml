@@ -5,7 +5,6 @@ on:
         branches: [main]
         paths:
             - ".github/workflows/main.yml"
-            - "scripts/*"
 
     schedule:
         - cron: "0 * * * *"
@@ -29,8 +28,8 @@ jobs:
               with:
                   node-version: 16
 
-            - name: Execute Script
-              run: node scripts/update.js
+            - name: Update Data
+              run: node index.js
 
             - name: Commit
               run: |
