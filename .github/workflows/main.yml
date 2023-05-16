@@ -5,6 +5,7 @@ on:
         branches: [main]
         paths:
             - ".github/workflows/main.yml"
+            - "index.js"
 
     schedule:
         - cron: "0 * * * *"
