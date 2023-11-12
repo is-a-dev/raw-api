@@ -29,8 +29,8 @@ let combinedArray = [];
                 item.domain = path.parse(file).name + ".is-a.dev";
                 item.subdomain = path.parse(file).name;
 
-                // Add a 'useHosting' field and set it to true for matched domains
-                item.useHosting = externalDomains.includes(item.domain);
+                // Add a 'usesHosting' field and set it to true for matched domains
+                item.usesHosting = externalDomains.includes(item.domain);
 
                 if (item.owner.email) item.owner.email = item.owner.email.replace(/@/, " (at) ");
             }
