@@ -5,10 +5,10 @@ on:
         branches: [main]
         paths:
             - ".github/workflows/main.yml"
-            - "index.mjs"
+            - "index.js"
 
     schedule:
-        - cron: "*/30 * * * *"
+        - cron: "*/15 * * * *"
 
     workflow_dispatch:
 
@@ -18,21 +18,19 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: actions/checkout@v3
+            - uses: actions/checkout@v4
 
-            - uses: actions/checkout@v3
+            - uses: actions/checkout@v4
               with:
                   repository: is-a-dev/register
                   path: is-a-dev
 
-            - uses: actions/setup-node@v2
+            - uses: actions/setup-node@v4
               with:
-                  node-version: 16
-
-            - run: npm install
+                  node-version: 22
 
             - name: Update Data
-              run: node --experimental-modules index.mjs
+              run: node index.js
 
             - name: Commit
               run: |
