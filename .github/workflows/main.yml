@@ -34,8 +34,8 @@ jobs:
 
             - name: Commit
               run: |
-                  git config --global user.email "bot@williamharrison.dev"
-                  git config --global user.name "WDH-Bot"
+                  git config --global user.email "is-a-dev-bot@win11react.com"
+                  git config --global user.name "is-a-dev-bot"
                   git add index.json
                   git commit -m "Update Data"
                   git push
