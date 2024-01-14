@@ -5,7 +5,7 @@ on:
         branches: [main]
         paths:
             - ".github/workflows/main.yml"
-            - "index.mjs"
+            - "index.js"
 
     schedule:
         - cron: "*/30 * * * *"
@@ -29,10 +29,8 @@ jobs:
               with:
                   node-version: 16
 
-            - run: npm install
-
             - name: Update Data
-              run: node --experimental-modules index.mjs
+              run: node index.js
 
             - name: Commit
               run: |
