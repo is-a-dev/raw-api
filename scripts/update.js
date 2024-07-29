@@ -20,7 +20,7 @@ fs.readdir(directoryPath, function (err, files) {
                 item.domain = path.parse(file).name + ".is-a.dev";
                 item.subdomain = path.parse(file).name;
 
-                item.owner.email = item.owner.email.replace(/@/, " (at) ");
+                delete item.owner.email;
             }
 
             combinedArray = combinedArray.concat(dataArray);
