@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const directoryPath = path.join(__dirname, "../../domains");
-const reserved = path.join(__dirname, "../../util/reserved.json");
+const reserved = require(path.join(__dirname, "../../util/reserved.json"));
 
 let combinedArray = [];
 
