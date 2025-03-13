@@ -6,6 +6,18 @@ const reserved = require("../../util/reserved.json");
 
 let combinedArray = [];
 
+for (const subdomain of reserved) {
+    dataArray.push({
+        owner: {
+            "username": "is-a-dev"
+        },
+        record: {},
+        domain: `${subdomain}.is-a.dev`,
+        subdomain: subdomain,
+        reserved: true
+    })
+}
+
 fs.readdir(directoryPath, function (err, files) {
     if (err) throw err;
 
@@ -22,18 +34,6 @@ fs.readdir(directoryPath, function (err, files) {
                 item.subdomain = path.parse(file).name;
 
                 delete item.owner.email;
-            }
-
-            for (const subdomain of reserved) {
-                dataArray.push({
-                    owner: {
-                        "username": "is-a-dev"
-                    },
-                    record: {},
-                    domain: `${subdomain}.is-a.dev`,
-                    subdomain: subdomain,
-                    reserved: true
-                })
             }
 
             combinedArray = combinedArray.concat(dataArray);
