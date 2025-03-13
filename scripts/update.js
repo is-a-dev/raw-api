@@ -7,7 +7,7 @@ const reserved = require("../../util/reserved.json");
 let combinedArray = [];
 
 for (const subdomain of reserved) {
-    dataArray.push({
+    combinedArray.push({
         owner: {
             "username": "is-a-dev"
         },
@@ -38,7 +38,7 @@ fs.readdir(directoryPath, function (err, files) {
 
             combinedArray = combinedArray.concat(dataArray);
 
-            if (combinedArray.length === files.length) {
+            if (combinedArray.length === files.length + reserved.length) {
                 fs.writeFile("raw-api/index.json", JSON.stringify(combinedArray), (err) => {
                     if (err) throw err;
                 });
