@@ -9,9 +9,12 @@ let combinedArray = [];
 for (const subdomain of reserved) {
     combinedArray.push({
         owner: {
-            "username": "is-a-dev"
+            username: "is-a-dev"
         },
-        record: {},
+        record: {
+            CNAME: "reserved.is-a.dev"
+        },
+        proxied: true,
         domain: `${subdomain}.is-a.dev`,
         subdomain: subdomain,
         reserved: true
