@@ -12,9 +12,8 @@ for (const subdomain of reserved) {
             username: "is-a-dev"
         },
         record: {
-            CNAME: "reserved.is-a.dev"
+            "URL": "https://is-a.dev/reserved"
         },
-        proxied: true,
         domain: `${subdomain}.is-a.dev`,
         subdomain: subdomain,
         reserved: true
