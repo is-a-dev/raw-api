@@ -11,6 +11,9 @@ for (const subdomain of reserved) {
         owner: {
             username: "is-a-dev"
         },
+        record: {
+            "URL": "https://is-a.dev/reserved"
+        },
         records: {
             "URL": "https://is-a.dev/reserved"
         },
@@ -34,6 +37,8 @@ fs.readdir(directoryPath, function (err, files) {
             for (const item of dataArray) {
                 item.domain = path.parse(file).name + ".is-a.dev";
                 item.subdomain = path.parse(file).name;
+                // Backwards compatibility for `record`
+                item.record = item.records;
 
                 delete item.owner.email;
             }
