@@ -11,7 +11,7 @@ for (const subdomain of reserved) {
         owner: {
             username: "is-a-dev"
         },
-        record: {
+        records: {
             "URL": "https://is-a.dev/reserved"
         },
         domain: `${subdomain}.is-a.dev`,
