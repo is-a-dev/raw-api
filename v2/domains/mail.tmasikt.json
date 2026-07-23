@@ -1,0 +1,1 @@
+{"domain":"mail.tmasikt.is-a.dev","subdomain":"mail.tmasikt","owner":{"username":"tmasikt","telegram":"tmasikt","discord":"tmasikt"},"records":{"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"}}

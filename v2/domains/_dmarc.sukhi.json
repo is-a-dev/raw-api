@@ -1,0 +1,1 @@
+{"domain":"_dmarc.sukhi.is-a.dev","subdomain":"_dmarc.sukhi","owner":{"username":"callmesukhi"},"records":{"TXT":"v=DMARC1; p=none;"}}

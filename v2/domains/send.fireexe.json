@@ -1,0 +1,1 @@
+{"domain":"send.fireexe.is-a.dev","subdomain":"send.fireexe","owner":{"username":"fireemerald1"},"records":{"MX":["feedback-smtp.eu-west-1.amazonses.com"],"TXT":"v=spf1 include:amazonses.com ~all"}}

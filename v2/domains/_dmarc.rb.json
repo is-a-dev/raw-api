@@ -1,0 +1,1 @@
+{"domain":"_dmarc.rb.is-a.dev","subdomain":"_dmarc.rb","owner":{"username":"randomboi404","discord":"randomboi404"},"records":{"TXT":"v=DMARC1; p=none;"}}

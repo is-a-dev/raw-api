@@ -1,0 +1,1 @@
+{"domain":"_dmarc.send.jikanwari.is-a.dev","subdomain":"_dmarc.send.jikanwari","owner":{"username":"8apricity"},"records":{"TXT":["v=DMARC1; p=none;"]}}

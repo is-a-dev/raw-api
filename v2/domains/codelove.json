@@ -1,0 +1,1 @@
+{"domain":"codelove.is-a.dev","subdomain":"codelove","owner":{"username":"lchenrique"},"records":{"MX":["mx1.forwardemail.net","mx2.forwardemail.net"],"TXT":["v=spf1 include:spf.forwardemail.net ~all","forward-email=lc.henriquee@gmail.com"]}}

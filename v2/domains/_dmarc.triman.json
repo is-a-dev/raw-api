@@ -1,0 +1,1 @@
+{"domain":"_dmarc.triman.is-a.dev","subdomain":"_dmarc.triman","owner":{"username":"TrimanSingh"},"records":{"TXT":"v=DMARC1; p=none;"}}

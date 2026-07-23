@@ -1,0 +1,1 @@
+{"domain":"atharvaupadhyay.is-a.dev","subdomain":"atharvaupadhyay","owner":{"username":"atharvaupadhyay","discord":"atharvaupadhyay"},"records":{"TXT":["v=spf1 include:spf.improvmx.com ~all"],"A":["216.198.79.1"],"MX":[{"priority":10,"target":"mx1.improvmx.com"},{"priority":20,"target":"mx2.improvmx.com"}]}}

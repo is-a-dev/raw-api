@@ -1,0 +1,1 @@
+{"domain":"_dmarc.vitordaniel.is-a.dev","subdomain":"_dmarc.vitordaniel","owner":{"username":"vadolasi"},"records":{"TXT":["v=DMARC1; p=none;"]}}

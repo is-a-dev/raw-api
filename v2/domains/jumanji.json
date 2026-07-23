@@ -1,0 +1,1 @@
+{"domain":"jumanji.is-a.dev","subdomain":"jumanji","owner":{"username":"heyjumanji"},"records":{"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all","CNAME":"2dff22a09316af0e.vercel-dns-017.com"},"proxied":true}

@@ -1,0 +1,1 @@
+{"domain":"_dmarc.seanti.is-a.dev","subdomain":"_dmarc.seanti","owner":{"username":"PizzaSpark"},"records":{"TXT":"v=DMARC1; p=none;"}}

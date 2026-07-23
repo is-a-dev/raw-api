@@ -1,0 +1,1 @@
+{"domain":"post.is-a.dev","subdomain":"post","owner":{"username":"vibred"},"records":{"TXT":["verification-code-site-App_lark=HBuHgbKczItwYdsgJHDZ","v=spf1 +include:spf.onlarksuite.com -all"],"MX":["mx1.larksuite.com","mx2.larksuite.com","mx3.larksuite.com"]}}

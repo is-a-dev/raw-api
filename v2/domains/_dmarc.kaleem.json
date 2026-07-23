@@ -1,0 +1,1 @@
+{"domain":"_dmarc.kaleem.is-a.dev","subdomain":"_dmarc.kaleem","owner":{"username":"imkaleemahmad"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:imkaleemahmad@gmail.com"}}

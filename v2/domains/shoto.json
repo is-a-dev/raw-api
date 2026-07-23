@@ -1,0 +1,1 @@
+{"domain":"shoto.is-a.dev","subdomain":"shoto","owner":{"username":"shotosystems"},"records":{"CNAME":"www.shoto.dev","TXT":["apple-domain=0dyJwiurnRgVXp1C","v=spf1 include:icloud.com ~all"],"MX":["mx01.mail.icloud.com","mx02.mail.icloud.com"]},"proxied":true}

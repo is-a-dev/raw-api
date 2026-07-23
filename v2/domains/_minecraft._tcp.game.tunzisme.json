@@ -1,0 +1,1 @@
+{"domain":"_minecraft._tcp.game.tunzisme.is-a.dev","subdomain":"_minecraft._tcp.game.tunzisme","owner":{"username":"Tunz152"},"records":{"SRV":[{"target":"game.tunzisme.is-a.dev","port":25565,"priority":0,"weight":0}]}}

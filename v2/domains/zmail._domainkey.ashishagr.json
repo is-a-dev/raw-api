@@ -1,0 +1,1 @@
+{"domain":"zmail._domainkey.ashishagr.is-a.dev","subdomain":"zmail._domainkey.ashishagr","owner":{"username":"devashish2024"},"records":{"TXT":"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCIgH7rkzspCgxdAEfGtMDFVqeAsZmmLMxof8ZtlEAPXhEPZR+otRjuKawWR0YShF1/r2/+D/DAt55p6vUnMtlmNGS8dVDUx5sHv3HN4Qtm0yzudclT1cy2URdrhUYc8AdpoX6Lkgz//nt2HoyghkBOuTJWMDwyrVPctX8VT/OtwQIDAQAB"}}

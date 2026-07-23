@@ -1,0 +1,1 @@
+{"domain":"_dmarc.sergarsilla.is-a.dev","subdomain":"_dmarc.sergarsilla","owner":{"username":"sergarsilla"},"records":{"TXT":["v=DMARC1; p=none;"]}}

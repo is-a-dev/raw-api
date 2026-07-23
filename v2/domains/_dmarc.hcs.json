@@ -1,0 +1,1 @@
+{"domain":"_dmarc.hcs.is-a.dev","subdomain":"_dmarc.hcs","owner":{"username":"hcs1219"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:hcskaiask@gmail.com; ruf=mailto:hcskaiask@gmail.com; sp=none; adkim=r; aspf=r; pct=100"}}

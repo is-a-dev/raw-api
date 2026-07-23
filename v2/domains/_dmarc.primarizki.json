@@ -1,0 +1,1 @@
+{"domain":"_dmarc.primarizki.is-a.dev","subdomain":"_dmarc.primarizki","owner":{"username":"vindalfr-k"},"records":{"TXT":"v=DMARC1; p=quarantine; rua=mailto:dmarc@primarizki.is-a.dev"}}

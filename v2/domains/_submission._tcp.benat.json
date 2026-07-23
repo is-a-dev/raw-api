@@ -1,0 +1,1 @@
+{"domain":"_submission._tcp.benat.is-a.dev","subdomain":"_submission._tcp.benat","owner":{"username":"BenatEiguren"},"records":{"SRV":[{"priority":0,"weight":0,"port":587,"target":"benat.is-a.dev"}]}}

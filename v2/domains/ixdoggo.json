@@ -1,0 +1,1 @@
+{"domain":"ixdoggo.is-a.dev","subdomain":"ixdoggo","owner":{"username":"xellion-dev"},"records":{"CNAME":"ixdoggo-web.pages.dev","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"},"proxied":true}

@@ -1,0 +1,1 @@
+{"domain":"_dmarc.mail.quereda.is-a.dev","subdomain":"_dmarc.mail.quereda","owner":{"username":"queredda"},"records":{"TXT":"v=DMARC1; p=none;"}}

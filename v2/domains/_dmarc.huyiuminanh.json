@@ -1,0 +1,1 @@
+{"domain":"_dmarc.huyiuminanh.is-a.dev","subdomain":"_dmarc.huyiuminanh","owner":{"username":"HuyHuynhQuocGD"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}

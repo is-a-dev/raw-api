@@ -1,0 +1,1 @@
+{"domain":"yp.shockbs.is-a.dev","subdomain":"yp.shockbs","owner":{"username":"shockbs"},"records":{"TXT":"v=spf1 include:mailgun.org ~all","MX":["mxa.mailgun.org","mxb.mailgun.org"]}}

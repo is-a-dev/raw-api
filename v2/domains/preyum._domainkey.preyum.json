@@ -1,0 +1,1 @@
+{"domain":"preyum._domainkey.preyum.is-a.dev","subdomain":"preyum._domainkey.preyum","owner":{"username":"PreyumKr"},"records":{"TXT":"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiqe+2Eqo/LMjMw6g/oqpFl9ivfQzhAWwaAOJf7KrIsf+Q1Jcqc0WJ0ru57LhKdhvgwQCOXsDd8AigpeA/9lBGvuWvOsJXiS79BpuqZkgrYZGsiFHQJ5519hlSJUnXZl8au0UI8okEVuyshiaFLsCp/6GrXgD/IuJ2XgJapNPFPwIDAQAB"}}

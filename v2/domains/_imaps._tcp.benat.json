@@ -1,0 +1,1 @@
+{"domain":"_imaps._tcp.benat.is-a.dev","subdomain":"_imaps._tcp.benat","owner":{"username":"BenatEiguren"},"records":{"SRV":[{"priority":0,"weight":0,"port":993,"target":"benat.is-a.dev"}]}}

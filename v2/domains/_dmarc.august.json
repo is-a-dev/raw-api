@@ -1,0 +1,1 @@
+{"domain":"_dmarc.august.is-a.dev","subdomain":"_dmarc.august","owner":{"username":"zoyxf"},"records":{"TXT":"v=DMARC1; p=quarantine; rua=mailto:august@august.is-a.dev; ruf=mailto:august@august.is-a.dev; sp=none; adkim=r; aspf=r; pct=100"}}

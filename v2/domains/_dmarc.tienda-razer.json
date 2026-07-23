@@ -1,0 +1,1 @@
+{"domain":"_dmarc.tienda-razer.is-a.dev","subdomain":"_dmarc.tienda-razer","owner":{"username":"hirotakeshi"},"records":{"TXT":"v=DMARC1; p=none;"}}

@@ -1,0 +1,1 @@
+{"domain":"_dmarc.send.eduardoaugusto.is-a.dev","subdomain":"_dmarc.send.eduardoaugusto","owner":{"username":"d3veduardo"},"records":{"TXT":"v=DMARC1; p=none;"}}

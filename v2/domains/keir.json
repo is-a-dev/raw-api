@@ -1,0 +1,1 @@
+{"domain":"keir.is-a.dev","subdomain":"keir","owner":{"username":"keirsalterego"},"records":{"CNAME":"keir.vercel.app","MX":["mx1.forwardemail.net","mx2.forwardemail.net"],"TXT":["v=spf1 a mx include:spf.forwardemail.net ~all","forward-email=manish:keirsalterego@gmail.com"]},"proxied":true}

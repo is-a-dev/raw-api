@@ -1,0 +1,1 @@
+{"domain":"mail.exparc.is-a.dev","subdomain":"mail.exparc","owner":{"username":"archivexgamexd"},"records":{"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]}}

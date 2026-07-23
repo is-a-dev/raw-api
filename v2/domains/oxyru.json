@@ -1,0 +1,1 @@
+{"domain":"oxyru.is-a.dev","subdomain":"oxyru","owner":{"username":"oxyrv"},"records":{"CNAME":"oxyrv.github.io","TXT":["v=spf1 include:zohomail.eu ~all"],"MX":[{"target":"mx.zoho.eu","priority":10},{"target":"mx2.zoho.eu","priority":20},{"target":"mx3.zoho.eu","priority":50}]},"proxied":true}

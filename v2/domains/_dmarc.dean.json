@@ -1,0 +1,1 @@
+{"domain":"_dmarc.dean.is-a.dev","subdomain":"_dmarc.dean","owner":{"username":"dandepan303"},"records":{"TXT":"v=DMARC1; p=none;"}}

@@ -1,0 +1,1 @@
+{"domain":"_dmarc.tayyab.is-a.dev","subdomain":"_dmarc.tayyab","owner":{"username":"Mr-Dev-Loper"},"records":{"TXT":["v=DMARC1; p=none; rua=mailto:postmaster@tayyab.is-a.dev"]}}

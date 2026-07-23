@@ -1,0 +1,1 @@
+{"domain":"kino.is-a.dev","subdomain":"kino","owner":{"username":"XsKino"},"records":{"A":["76.76.21.21"],"MX":[{"target":"mx1.kino.com","priority":10},{"target":"mx2.kino.com","priority":20}]}}

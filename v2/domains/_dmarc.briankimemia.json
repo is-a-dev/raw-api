@@ -1,0 +1,1 @@
+{"domain":"_dmarc.briankimemia.is-a.dev","subdomain":"_dmarc.briankimemia","owner":{"username":"BrianKN019"},"records":{"TXT":"v=DMARC1; p=quarantine; rua=mailto:briannkimemia@gmail.com"}}

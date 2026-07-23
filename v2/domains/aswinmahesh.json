@@ -1,0 +1,1 @@
+{"domain":"aswinmahesh.is-a.dev","subdomain":"aswinmahesh","owner":{"username":"aswinmahesh"},"records":{"A":["75.2.60.5"],"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"}}

@@ -1,0 +1,1 @@
+{"domain":"_dmarc.gupta.is-a.dev","subdomain":"_dmarc.gupta","owner":{"username":"Priyansxu"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:priyanshu@gupta.is-a.dev; ruf=mailto:priyanshu@gupta.is-a.dev; sp=none; adkim=r; aspf=r; pct=100"}}

@@ -1,0 +1,1 @@
+{"domain":"send.cieldt.is-a.dev","subdomain":"send.cieldt","owner":{"username":"ductai05"},"records":{"TXT":"v=spf1 include:amazonses.com ~all","MX":[{"target":"feedback-smtp.ap-northeast-1.amazonses.com","priority":10}]}}

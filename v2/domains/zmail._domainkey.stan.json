@@ -1,0 +1,1 @@
+{"domain":"zmail._domainkey.stan.is-a.dev","subdomain":"zmail._domainkey.stan","owner":{"username":"stanleysutton"},"records":{"TXT":"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCDK/Dndw0Z65z21J61u6oD543WDuFDcoiVYFHmw0mS+W1NzA9ZPh2BujyqE8TAarTb4DxanELu4ynPm8Hi58fuiB0TCUst5OhTBcraw7CfamN0bEjFjYHWyjtiKMVNJWYhNTn1+4kK/Ou0jZzEdUi3W1Asz6n7WzBBJiN70FHROQIDAQAB"}}

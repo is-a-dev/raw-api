@@ -1,0 +1,1 @@
+{"domain":"_dmarc.lenadijksma.is-a.dev","subdomain":"_dmarc.lenadijksma","owner":{"username":"LenaDijksma"},"records":{"TXT":"v=DMARC1; p=none;"}}

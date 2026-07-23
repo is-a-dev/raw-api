@@ -1,0 +1,1 @@
+{"domain":"_dmarc.adhi.is-a.dev","subdomain":"_dmarc.adhi","owner":{"username":"developeradhi"},"records":{"TXT":"v=DMARC1; p=none;"}}

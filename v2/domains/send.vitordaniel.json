@@ -1,0 +1,1 @@
+{"domain":"send.vitordaniel.is-a.dev","subdomain":"send.vitordaniel","owner":{"username":"vadolasi"},"records":{"TXT":["v=spf1 include:amazonses.com ~all"],"MX":["feedback-smtp.sa-east-1.amazonses.com"]}}

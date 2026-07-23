@@ -1,0 +1,1 @@
+{"domain":"_dmarc.send.serchidev.is-a.dev","subdomain":"_dmarc.send.serchidev","owner":{"username":"serchidev"},"records":{"TXT":"v=DMARC1; p=none;"}}

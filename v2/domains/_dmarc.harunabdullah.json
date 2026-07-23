@@ -1,0 +1,1 @@
+{"domain":"_dmarc.harunabdullah.is-a.dev","subdomain":"_dmarc.harunabdullah","owner":{"username":"harunabdullahrakin"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:harunabdullahrakin@gmail.com; ruf=mailto:harunabdullahrakin@gmail.com; sp=none; adkim=r; aspf=r; pct=100"}}

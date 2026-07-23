@@ -1,0 +1,1 @@
+{"domain":"zmail._domainkey.mail.lexiz.is-a.dev","subdomain":"zmail._domainkey.mail.lexiz","owner":{"username":"lexizuchenna"},"records":{"TXT":"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDElVIriXSNnap4TOL9WuUebwMEUn2665l5wVZq4tcyV+7tMLKHpUiCuQ3ZV+JI+8+sra+TLzXb1YU/b1wp7R5SeUVNDgGtFN7RwuIbY+l0GTCxN7JWOq+TX9Jn66EtMQg645Af6blYgkN9hWtxTtrO6M3Us4Jp0J+k83WchDOE1QIDAQAB"}}

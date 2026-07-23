@@ -1,0 +1,1 @@
+{"domain":"gnof.is-a.dev","subdomain":"gnof","owner":{"username":"gnof-the-shark"},"records":{"A":["216.239.32.21","216.239.34.21","216.239.36.21","216.239.38.21"],"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all","google-site-verification=jw7W-u5TSGB2sM3tIEGbYKp6KQ4v0cVh69S7eDE-kdI"]}}

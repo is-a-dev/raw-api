@@ -1,0 +1,1 @@
+{"domain":"khanhdew.is-a.dev","subdomain":"khanhdew","owner":{"username":"khanhdew"},"records":{"CNAME":"khanhdew.ddns.net","MX":[{"target":"khanhdew.ddns.net","priority":10}],"TXT":"v=spf1 +mx +a ~all"},"proxied":true}

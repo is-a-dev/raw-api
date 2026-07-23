@@ -1,0 +1,1 @@
+{"domain":"send.seanti.is-a.dev","subdomain":"send.seanti","owner":{"username":"PizzaSpark"},"records":{"MX":["feedback-smtp.ap-northeast-1.amazonses.com"],"TXT":"v=spf1 include:amazonses.com ~all"}}

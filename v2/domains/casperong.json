@@ -1,0 +1,1 @@
+{"domain":"casperong.is-a.dev","subdomain":"casperong","owner":{"username":"casperong","discord":"@casper.ong.ny","instagram":"@casper.ong.ny"},"records":{"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"],"CNAME":"casperong.github.io"},"proxied":true}

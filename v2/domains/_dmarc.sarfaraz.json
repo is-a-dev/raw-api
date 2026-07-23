@@ -1,0 +1,1 @@
+{"domain":"_dmarc.sarfaraz.is-a.dev","subdomain":"_dmarc.sarfaraz","owner":{"username":"sarfarazstark"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}

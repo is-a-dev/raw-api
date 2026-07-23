@@ -1,0 +1,1 @@
+{"domain":"filip.is-a.dev","subdomain":"filip","owner":{"username":"totalolage"},"records":{"CNAME":"vps1.kalny.net","CAA":[{"tag":"issue","value":"letsencrypt.org"}]},"proxied":true}

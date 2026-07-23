@@ -1,0 +1,1 @@
+{"domain":"_dmarc.javier.is-a.dev","subdomain":"_dmarc.javier","owner":{"username":"Javiito32"},"records":{"TXT":"v=DMARC1; p=quarantine"}}

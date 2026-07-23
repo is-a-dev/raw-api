@@ -1,0 +1,1 @@
+{"domain":"andrelopes.is-a.dev","subdomain":"andrelopes","owner":{"username":"andrejorgelopes"},"records":{"CNAME":"andrejorgelopes.github.io","MX":[{"target":"mx1.improvmx.com","priority":10},{"target":"mx2.improvmx.com","priority":20}],"TXT":["v=spf1 include:spf.improvmx.com ~all"]},"proxied":true}

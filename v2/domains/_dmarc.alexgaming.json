@@ -1,0 +1,1 @@
+{"domain":"_dmarc.alexgaming.is-a.dev","subdomain":"_dmarc.alexgaming","owner":{"username":"alexgamingstudio"},"records":{"TXT":"v=DMARC1; p=quarantine; rua=mailto:rua@dmarc.brevo.com"}}

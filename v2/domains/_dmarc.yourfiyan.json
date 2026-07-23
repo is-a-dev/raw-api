@@ -1,0 +1,1 @@
+{"domain":"_dmarc.yourfiyan.is-a.dev","subdomain":"_dmarc.yourfiyan","owner":{"username":"Yourfiyan"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:yourfiyan@yourfiyan.is-a.dev; adkim=s; aspf=s"}}

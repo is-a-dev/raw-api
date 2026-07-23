@@ -1,0 +1,1 @@
+{"domain":"joeb.is-a.dev","subdomain":"joeb","owner":{"username":"joevizcara"},"records":{"CNAME":"joeb.pages.dev","MX":["mx1.forwardemail.net","mx2.forwardemail.net"],"TXT":"forward-email=joevizcara@proton.me"},"proxied":true}

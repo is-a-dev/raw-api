@@ -1,0 +1,1 @@
+{"domain":"_dmarc.yxz.is-a.dev","subdomain":"_dmarc.yxz","owner":{"username":"yz9551","discord":"yz9551"},"records":{"TXT":"v=DMARC1; p=reject; pct=100; rua=mailto:dmarc-reports@yxz.is-a.dev; ruf=mailto:forensic-reports@yxz.is-a.dev; adkim=r; aspf=r"}}

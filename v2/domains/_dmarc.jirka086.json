@@ -1,0 +1,1 @@
+{"domain":"_dmarc.jirka086.is-a.dev","subdomain":"_dmarc.jirka086","owner":{"username":"jirka086"},"records":{"TXT":"v=DMARC1;p=quarantine;rua=mailto:admin@jirka086.is-a.dev"}}
