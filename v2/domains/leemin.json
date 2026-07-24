@@ -1,1 +1,1 @@
-{"domain":"leemin.is-a.dev","subdomain":"leemin","owner":{"username":"TodTheMatsu"},"records":{"CNAME":"cname.vercel-dns.com"}}
+{"domain":"leemin.is-a.dev","subdomain":"leemin","owner":{"username":"TodTheMatsu"},"records":{"A":["216.198.79.1"]}}
