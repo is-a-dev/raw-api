@@ -1,0 +1,1 @@
+{"domain":"send.mareks.is-a.dev","subdomain":"send.mareks","owner":{"username":"mareksmareks"},"records":{"MX":[{"priority":10,"target":"feedback-smtp.eu-west-1.amazonses.com"}],"TXT":"v=spf1 include:amazonses.com ~all"}}
