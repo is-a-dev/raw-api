@@ -1,0 +1,1 @@
+{"domain":"_dmarc.abdulkareem.is-a.dev","subdomain":"_dmarc.abdulkareem","owner":{"username":"abdulkareemakn"},"records":{"TXT":"v=DMARC1; p=none;"}}
