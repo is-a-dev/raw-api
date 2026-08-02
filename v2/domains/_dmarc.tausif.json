@@ -1,0 +1,1 @@
+{"domain":"_dmarc.tausif.is-a.dev","subdomain":"_dmarc.tausif","owner":{"username":"IttehadT"},"records":{"TXT":"v=DMARC1; p=quarantine; rua=mailto:contact@tausif.is-a.dev; pct=100"}}
