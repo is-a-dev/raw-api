@@ -1,0 +1,1 @@
+{"domain":"_dmarc.send.theshashank.is-a.dev","subdomain":"_dmarc.send.theshashank","owner":{"username":"theshashankk"},"records":{"TXT":"v=DMARC1; p=none;"}}
