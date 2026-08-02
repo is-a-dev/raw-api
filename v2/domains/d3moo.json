@@ -1,1 +1,1 @@
-{"domain":"d3moo.is-a.dev","subdomain":"d3moo","owner":{"username":"dxbdxb416"},"records":{"CNAME":"dxbdxb416.github.io"}}
+{"domain":"d3moo.is-a.dev","subdomain":"d3moo","owner":{"username":"dxbdxb416"},"records":{"CNAME":"dxbdxb416.github.io","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"},"proxied":true}
