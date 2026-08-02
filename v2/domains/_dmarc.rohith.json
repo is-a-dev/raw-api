@@ -1,0 +1,1 @@
+{"domain":"_dmarc.rohith.is-a.dev","subdomain":"_dmarc.rohith","owner":{"username":"Rohith-Shimori"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}
