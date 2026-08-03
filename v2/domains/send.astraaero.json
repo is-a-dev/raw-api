@@ -1,0 +1,1 @@
+{"domain":"send.astraaero.is-a.dev","subdomain":"send.astraaero","owner":{"username":"MukulBhardwaj-4"},"records":{"TXT":"v=spf1 include:amazonses.com ~all","MX":[{"target":"feedback-smtp.ap-northeast-1.amazonses.com","priority":10}]}}
