@@ -1,1 +1,1 @@
-{"domain":"_vercel.neisser.is-a.dev","subdomain":"_vercel.neisser","owner":{"username":"neisserdev"},"records":{"TXT":"vc-domain-verify=neisser.is-a.dev,a5a3585612a28d2aa5bc"}}
+{"domain":"_vercel.neisser.is-a.dev","subdomain":"_vercel.neisser","owner":{"username":"neisserdev"},"records":{"TXT":["vc-domain-verify=neisser.is-a.dev,0063af244266dae11e0c","vc-domain-verify=www.neisser.is-a.dev,b187765db8009d054288"]}}
