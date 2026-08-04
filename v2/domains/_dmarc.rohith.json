@@ -1,1 +1,1 @@
-{"domain":"_dmarc.rohith.is-a.dev","subdomain":"_dmarc.rohith","owner":{"username":"Rohith-Shimori"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}
+{"domain":"_dmarc.rohith.is-a.dev","subdomain":"_dmarc.rohith","owner":{"username":"Rohith-Shimori"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rohith@rohith.is-a.dev,mailto:rua@dmarc.brevo.com; ruf=mailto:rohith@rohith.is-a.dev; sp=none; adkim=r; aspf=r; pct=100"}}
