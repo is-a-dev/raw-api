@@ -1,1 +1,1 @@
-{"domain":"andrew-b.is-a.dev","subdomain":"andrew-b","owner":{"username":"AndrewB92"},"records":{"A":["216.198.79.1"],"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]}}
+{"domain":"andrew-b.is-a.dev","subdomain":"andrew-b","owner":{"username":"AndrewB92"},"records":{"A":["216.198.79.1"],"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all","brevo-code:44509a702548750266b8ccf8141d68da"]}}
