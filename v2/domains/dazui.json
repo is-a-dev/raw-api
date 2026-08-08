@@ -1,1 +1,1 @@
-{"domain":"dazui.is-a.dev","subdomain":"dazui","owner":{"username":"dazui-py"},"records":{"CNAME":"dazui-py.vercel.app"}}
+{"domain":"dazui.is-a.dev","subdomain":"dazui","owner":{"username":"dazui-py"},"records":{"A":["216.198.79.1"]}}
