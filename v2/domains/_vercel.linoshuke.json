@@ -1,1 +1,1 @@
-{"domain":"_vercel.linoshuke.is-a.dev","subdomain":"_vercel.linoshuke","owner":{"username":"linoshuke"},"records":{"TXT":"vc-domain-verify=linoshuke.is-a.dev,0cb08d6cff77f71769ce"}}
+{"domain":"_vercel.linoshuke.is-a.dev","subdomain":"_vercel.linoshuke","owner":{"username":"linoshuke"},"records":{"TXT":["vc-domain-verify=linoshuke.is-a.dev,0cb08d6cff77f71769ce","vc-domain-verify=www.linoshuke.is-a.dev,64183709a1d35524a8ce"]}}
