@@ -1,0 +1,1 @@
+{"domain":"_dmarc.debjit.is-a.dev","subdomain":"_dmarc.debjit","owner":{"username":"mystichronicle"},"records":{"TXT":["v=DMARC1; p=none; rua=mailto:mystichronicle@gmail.com;"]}}
