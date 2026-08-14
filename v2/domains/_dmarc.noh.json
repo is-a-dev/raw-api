@@ -1,0 +1,1 @@
+{"domain":"_dmarc.noh.is-a.dev","subdomain":"_dmarc.noh","owner":{"username":"22552"},"records":{"TXT":"v=DMARC1; p=none;"}}
