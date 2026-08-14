@@ -1,1 +1,1 @@
-{"domain":"_vercel.nilshogberg.is-a.dev","subdomain":"_vercel.nilshogberg","owner":{"username":"Nimaho71"},"records":{"TXT":"vc-domain-verify=nilshogberg.is-a.dev,eb3a29a7bf4389851e75"}}
+{"domain":"_vercel.nilshogberg.is-a.dev","subdomain":"_vercel.nilshogberg","owner":{"username":"Nimaho71"},"records":{"TXT":["vc-domain-verify=nilshogberg.is-a.dev,eb3a29a7bf4389851e75","vc-domain-verify=chess.nilshogberg.is-a.dev,203918fc5bc3d4c0af6c","vc-domain-verify=fluid.nilshogberg.is-a.dev,bf54649b3d1b2a188801","vc-domain-verify=nature.nilshogberg.is-a.dev,a6191d74cfebe8649a08"]}}
