@@ -1,1 +1,1 @@
-{"domain":"maseblog.is-a.dev","subdomain":"maseblog","owner":{"username":"MaseDev33"},"records":{"CNAME":"example.com"}}
+{"domain":"maseblog.is-a.dev","subdomain":"maseblog","owner":{"username":"MaseDev33"},"records":{"A":["104.16.243.55"]}}
