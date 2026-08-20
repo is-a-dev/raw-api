@@ -1,0 +1,1 @@
+{"domain":"shobhit.is-a.dev","subdomain":"shobhit","owner":{"username":"geeklord"},"records":{"CNAME":"apex-loadbalancer.netlify.com","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"},"proxied":true}
