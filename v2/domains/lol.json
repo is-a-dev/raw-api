@@ -1,1 +1,1 @@
-{"domain":"lol.is-a.dev","subdomain":"lol","owner":{"username":"ctrlaltspace"},"records":{"CNAME":"ctrlaltspace.github.io"}}
+{"domain":"lol.is-a.dev","subdomain":"lol","owner":{"username":"ctrlaltspace"},"records":{"URL":"https://ctrlaltspace.is-a.dev"},"redirect_config":{"redirect_paths":true}}

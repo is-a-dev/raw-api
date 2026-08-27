@@ -1,1 +1,1 @@
-{"domain":"hi.is-a.dev","subdomain":"hi","owner":{"username":"ctrlaltspace"},"records":{"CNAME":"ctrlaltspace.github.io"}}
+{"domain":"hi.is-a.dev","subdomain":"hi","owner":{"username":"ctrlaltspace"},"records":{"URL":"https://ctrlaltspace.is-a.dev"},"redirect_config":{"redirect_paths":true}}

@@ -1,1 +1,1 @@
-{"domain":"abc.is-a.dev","subdomain":"abc","owner":{"username":"ctrlaltspace"},"records":{"CNAME":"ctrlaltspace.github.io"}}
+{"domain":"abc.is-a.dev","subdomain":"abc","owner":{"username":"ctrlaltspace"},"records":{"URL":"https://ctrlaltspace.is-a.dev"},"redirect_config":{"redirect_paths":true}}

@@ -1,1 +1,1 @@
-{"domain":"ctrl-alt-space.is-a.dev","subdomain":"ctrl-alt-space","owner":{"username":"ctrlaltspace"},"records":{"CNAME":"ctrlaltspace.github.io"}}
+{"domain":"ctrl-alt-space.is-a.dev","subdomain":"ctrl-alt-space","owner":{"username":"ctrlaltspace"},"records":{"URL":"https://ctrlaltspace.is-a.dev"},"redirect_config":{"redirect_paths":true}}
