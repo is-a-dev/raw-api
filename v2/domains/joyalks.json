@@ -1,1 +1,1 @@
-{"domain":"joyalks.is-a.dev","subdomain":"joyalks","owner":{"username":"joyalksdev"},"records":{"CNAME":"joyalks-portfolio.vercel.app"}}
+{"domain":"joyalks.is-a.dev","subdomain":"joyalks","owner":{"username":"joyalksdev"},"records":{"A":["216.198.79.1"]}}
