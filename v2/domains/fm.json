@@ -1,0 +1,1 @@
+{"domain":"fm.is-a.dev","subdomain":"fm","owner":{"username":"faisalimap"},"records":{"URL":"https://faisalimap.is-a.dev","MX":[{"target":"mx1.forwardemail.net","priority":0},{"target":"mx2.forwardemail.net","priority":0}],"TXT":"forward-email=faisalimap@gmail.com"}}
