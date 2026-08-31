@@ -1,0 +1,1 @@
+{"domain":"_dmarc.markbel.belal.is-a.dev","subdomain":"_dmarc.markbel.belal","owner":{"username":"belal-waheed"},"records":{"TXT":"v=DMARC1; p=none;"}}
