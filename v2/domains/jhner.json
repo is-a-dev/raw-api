@@ -1,1 +1,1 @@
-{"domain":"jhner.is-a.dev","subdomain":"jhner","owner":{"username":"kielsvu"},"records":{"CNAME":"kielsvu.github.io"}}
+{"domain":"jhner.is-a.dev","subdomain":"jhner","owner":{"username":"kielsvu"},"records":{"A":["216.198.79.1"]}}
