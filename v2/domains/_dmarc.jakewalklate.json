@@ -1,0 +1,1 @@
+{"domain":"_dmarc.jakewalklate.is-a.dev","subdomain":"_dmarc.jakewalklate","owner":{"username":"jakewalklate"},"records":{"TXT":"v=DMARC1; p=quarantine; ruf=mailto:jake@jakewalklate.is-a.dev; sp=quarantine; adkim=r; aspf=r"}}
