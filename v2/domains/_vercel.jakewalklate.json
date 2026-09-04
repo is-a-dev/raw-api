@@ -1,1 +1,1 @@
-{"domain":"_vercel.jakewalklate.is-a.dev","subdomain":"_vercel.jakewalklate","owner":{"username":"jakewalklate"},"records":{"TXT":"vc-domain-verify=jakewalklate.is-a.dev,b20119863b02129869c8"}}
+{"domain":"_vercel.jakewalklate.is-a.dev","subdomain":"_vercel.jakewalklate","owner":{"username":"jakewalklate"},"records":{"TXT":["vc-domain-verify=jakewalklate.is-a.dev,b20119863b02129869c8","vc-domain-verify=www.jakewalklate.is-a.dev,315bfc3e519a191217e8"]}}
