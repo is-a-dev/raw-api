@@ -1,1 +1,1 @@
-{"domain":"harshitthek.is-a.dev","subdomain":"harshitthek","owner":{"username":"harshitthek"},"records":{"A":["144.24.104.31"]}}
+{"domain":"harshitthek.is-a.dev","subdomain":"harshitthek","owner":{"username":"harshitthek"},"records":{"A":["161.118.171.84"]},"redirect_config":{"custom_paths":{"/github":"https://github.com/harshitthek","/portfolio":"https://harshitthek.github.io/harshitfolio/"}},"proxied":true}
