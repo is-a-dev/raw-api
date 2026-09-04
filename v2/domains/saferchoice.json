@@ -1,1 +1,1 @@
-{"domain":"saferchoice.is-a.dev","subdomain":"saferchoice","owner":{"username":"89ph88o8gf"},"records":{"TXT":"v=spf1 mx ip4:2001:41d0:404:200::62e1 -all","MX":[{"target":"mail.havitomail.com","priority":10}]}}
+{"domain":"saferchoice.is-a.dev","subdomain":"saferchoice","owner":{"username":"89ph88o8gf"},"records":{"A":["75.2.60.5"],"TXT":"v=spf1 mx ip4:2001:41d0:404:200::62e1 -all","MX":[{"target":"mail.havitomail.com","priority":10}]}}
