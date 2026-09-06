@@ -1,0 +1,1 @@
+{"domain":"_dmarc.linus.is-a.dev","subdomain":"_dmarc.linus","owner":{"username":"linuskang"},"records":{"TXT":"v=DMARC1; p=none;"}}
