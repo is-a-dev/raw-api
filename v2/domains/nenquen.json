@@ -1,1 +1,1 @@
-{"domain":"nenquen.is-a.dev","subdomain":"nenquen","owner":{"username":"nenquen"},"records":{"CNAME":"nenquen.vercel.app"}}
+{"domain":"nenquen.is-a.dev","subdomain":"nenquen","owner":{"username":"nenquen"},"records":{"A":["216.198.79.1"]}}
