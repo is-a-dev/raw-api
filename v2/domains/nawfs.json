@@ -1,1 +1,1 @@
-{"domain":"nawfs.is-a.dev","subdomain":"nawfs","owner":{"username":"nawfs254"},"records":{"CNAME":"cname.vercel-dns.com"}}
+{"domain":"nawfs.is-a.dev","subdomain":"nawfs","owner":{"username":"nawfs254"},"records":{"A":["216.198.79.1"]}}
