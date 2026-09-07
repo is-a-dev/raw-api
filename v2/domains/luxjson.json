@@ -1,1 +1,1 @@
-{"domain":"luxjson.is-a.dev","subdomain":"luxjson","owner":{"username":"luxjson"},"records":{"CNAME":"luxjson.github.io"}}
+{"domain":"luxjson.is-a.dev","subdomain":"luxjson","owner":{"username":"luxjson"},"records":{"A":["216.198.79.1"]}}
