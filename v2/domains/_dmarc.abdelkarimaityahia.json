@@ -1,0 +1,1 @@
+{"domain":"_dmarc.abdelkarimaityahia.is-a.dev","subdomain":"_dmarc.abdelkarimaityahia","owner":{"username":"karimait12"},"records":{"TXT":["v=DMARC1; p=none;"]}}
