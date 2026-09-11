@@ -1,0 +1,1 @@
+{"domain":"zmail._domainkey.krishan.is-a.dev","subdomain":"zmail._domainkey.krishan","owner":{"username":"krishanmurariji"},"records":{"TXT":["v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChEcW5BO/Hb+mkMuUYSPULF59qKhzLKtHDg8pUMOhLKOeIb1p4KTypqHpq+iSFWfDLDldCCNYyfCJGUzKUY6k4jYRAXTDMTavdpXB7zE/VGF5pz+fCwmCFL5ACrM6Xxht4bREu50nK3/ANs5vwOcLPzd8KeBG4mBdf3lnYdJJXKQIDAQAB"]}}
