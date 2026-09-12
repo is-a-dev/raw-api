@@ -1,0 +1,1 @@
+{"domain":"_dmarc.mail.alexgaming.is-a.dev","subdomain":"_dmarc.mail.alexgaming","owner":{"username":"alexgamingdev"},"records":{"TXT":"v=DMARC1; p=quarantine; aspf=r; adkim=r; rua=mailto:alexgaming.padh@gmail.com"}}
