@@ -1,0 +1,1 @@
+{"domain":"v1-ed25519-20260914._domainkey.yusuufmm.is-a.dev","subdomain":"v1-ed25519-20260914._domainkey.yusuufmm","owner":{"username":"yusuuf-mm"},"records":{"TXT":"v=DKIM1; k=ed25519; p=zJHQKT7Ga2WgOGe+8TEa2PUx9AxnIXutvvwBvmKRLnM="}}
