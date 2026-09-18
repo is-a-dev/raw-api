@@ -1,0 +1,1 @@
+{"domain":"_dmarc.runtogether.is-a.dev","subdomain":"_dmarc.runtogether","owner":{"username":"swiftjamesr"},"records":{"TXT":"v=DMARC1; p=none;"}}
