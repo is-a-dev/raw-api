@@ -1,0 +1,1 @@
+{"domain":"devchaves.is-a.dev","subdomain":"devchaves","owner":{"username":"GuilhermeChaves1"},"records":{"A":["163.176.230.223"],"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"},"proxied":true}
