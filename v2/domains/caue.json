@@ -1,1 +1,1 @@
-{"domain":"caue.is-a.dev","subdomain":"caue","owner":{"username":"crpinhal"},"records":{"CNAME":"dev.caue.xyz"}}
+{"domain":"caue.is-a.dev","subdomain":"caue","owner":{"username":"crpinhal"},"records":{"CNAME":"alientech.app.br","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]},"proxied":true}
