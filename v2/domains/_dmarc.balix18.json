@@ -1,0 +1,1 @@
+{"domain":"_dmarc.balix18.is-a.dev","subdomain":"_dmarc.balix18","owner":{"username":"balix18"},"records":{"TXT":["v=DMARC1; p=none;"]}}
