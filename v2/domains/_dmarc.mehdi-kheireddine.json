@@ -1,0 +1,1 @@
+{"domain":"_dmarc.mehdi-kheireddine.is-a.dev","subdomain":"_dmarc.mehdi-kheireddine","owner":{"username":"MahdiKheireddine"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}
