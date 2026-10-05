@@ -1,0 +1,1 @@
+{"domain":"_dmarc.naman.is-a.dev","subdomain":"_dmarc.naman","owner":{"username":"namandhakad712"},"records":{"TXT":["v=DMARC1; p=none; sp=none; adkim=r; aspf=r; pct=100; rua=mailto:namandhakad712+dev@gmail.com"]}}
