@@ -1,1 +1,1 @@
-{"domain":"_vercel.sachindev.is-a.dev","subdomain":"_vercel.sachindev","owner":{"username":"AEGON247"},"records":{"TXT":"vc-domain-verify=sachindev.is-a.dev"}}
+{"domain":"_vercel.sachindev.is-a.dev","subdomain":"_vercel.sachindev","owner":{"username":"AEGON247"},"records":{"TXT":["vc-domain-verify=sachindev.is-a.dev,fb86691c99dbd097b38c","vc-domain-verify=www.sachindev.is-a.dev,94542ec2f511748b40c4"]}}
