@@ -1,0 +1,1 @@
+{"domain":"_dmarc.djaouad.is-a.dev","subdomain":"_dmarc.djaouad","owner":{"username":"djoudad292"},"records":{"TXT":["v=DMARC1; p=quarantine; rua=mailto:oufr29@gmail.com; fo=1; adkim=r; aspf=r"]}}
