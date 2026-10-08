@@ -1,1 +1,1 @@
-{"domain":"deniskuizinas.is-a.dev","subdomain":"deniskuizinas","owner":{"username":"d08689390-byte"},"records":{"CNAME":"d08689390-byte.github.io"}}
+{"domain":"deniskuizinas.is-a.dev","subdomain":"deniskuizinas","owner":{"username":"d08689390-byte"},"records":{"A":["104.18.5.103","104.18.4.103"],"AAAA":["2606:4700::6812:567","2606:4700::6812:467"]}}
