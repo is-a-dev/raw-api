@@ -1,1 +1,1 @@
-{"domain":"mail.jyothibasu.is-a.dev","subdomain":"mail.jyothibasu","owner":{"username":"jyothi-basu"},"records":{"MX":[{"priority":10,"target":"inbound-smtp.us-east-1.amazonaws.com"}]}}
+{"domain":"mail.jyothibasu.is-a.dev","subdomain":"mail.jyothibasu","owner":{"username":"jyothi-basu"},"records":{"MX":[{"priority":10,"target":"inbound-smtp.us-east-1.amazonaws.com"}],"TXT":"zoho-verification=zb54977424.zmverify.zoho.in"}}
