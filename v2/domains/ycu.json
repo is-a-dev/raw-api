@@ -1,1 +1,1 @@
-{"domain":"ycu.is-a.dev","subdomain":"ycu","owner":{"username":"yusufcan-07"},"records":{"CNAME":"ycu-portfolio.pages.dev"}}
+{"domain":"ycu.is-a.dev","subdomain":"ycu","owner":{"username":"yusufcan-07"},"records":{"CNAME":"ycu-portfolio.pages.dev","MX":[{"target":"mx1.larksuite.com","priority":1},{"target":"mx2.larksuite.com","priority":5},{"target":"mx3.larksuite.com","priority":10}],"TXT":["verification-code-site-App_lark=Y8anXuSz8jYBjjVGrMtH","v=spf1 +include:spf.onlarksuite.com -all"]},"proxied":true}
