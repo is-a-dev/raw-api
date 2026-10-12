@@ -1,0 +1,1 @@
+{"domain":"_dmarc.victer.is-a.dev","subdomain":"_dmarc.victer","owner":{"username":"VicterHong"},"records":{"TXT":["v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"]}}
