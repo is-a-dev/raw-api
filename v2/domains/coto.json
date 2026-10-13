@@ -1,1 +1,1 @@
-{"domain":"coto.is-a.dev","subdomain":"coto","owner":{"username":"adiyatcoto"},"records":{"CNAME":"adiyatcoto.github.io","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]},"proxied":true}
+{"domain":"coto.is-a.dev","subdomain":"coto","owner":{"username":"adiyatcoto"},"records":{"CNAME":"adiyatcoto.github.io","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all","v=DMARC1; p=none; rua=mailto:coto.adiyat@gmail.com"]},"proxied":true}
