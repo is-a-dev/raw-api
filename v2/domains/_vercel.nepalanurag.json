@@ -1,1 +1,1 @@
-{"domain":"_vercel.nepalanurag.is-a.dev","subdomain":"_vercel.nepalanurag","owner":{"username":"nepalanurag"},"records":{"TXT":"vc-domain-verify=nepalanurag.is-a.dev,3863fe52b864e70e3038"}}
+{"domain":"_vercel.nepalanurag.is-a.dev","subdomain":"_vercel.nepalanurag","owner":{"username":"nepalanurag"},"records":{"TXT":["vc-domain-verify=nepalanurag.is-a.dev,75e6954dd64ede76c7a9","vc-domain-verify=www.nepalanurag.is-a.dev,af4857d8eda9accd19a1"]}}
