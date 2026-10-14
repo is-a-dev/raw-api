@@ -1,1 +1,1 @@
-{"domain":"_vercel.kome.is-a.dev","subdomain":"_vercel.kome","owner":{"username":"blessingkeyz"},"records":{"TXT":"vc-domain-verify=kome.is-a.dev,d64ad526587125e58c52"}}
+{"domain":"_vercel.kome.is-a.dev","subdomain":"_vercel.kome","owner":{"username":"blessingkeyz"},"records":{"TXT":["vc-domain-verify=kome.is-a.dev,d64ad526587125e58c52","vc-domain-verify=www.kome.is-a.dev,6b086739239e2cec1c7e"]}}
