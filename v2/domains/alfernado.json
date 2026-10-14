@@ -1,1 +1,1 @@
-{"domain":"alfernado.is-a.dev","subdomain":"alfernado","owner":{"username":"rdmilkshakelab"},"records":{"CNAME":"rdmilkshakelab.github.io"},"proxied":true}
+{"domain":"alfernado.is-a.dev","subdomain":"alfernado","owner":{"username":"rdmilkshakelab"},"records":{"TXT":["verification-code-site-App_lark=cSsPTgiE2HeUbXJAjUNQ","v=spf1 +include:spf.onlarksuite.com -all"],"MX":[{"target":"mx1.larksuite.com","priority":1},{"target":"mx2.larksuite.com","priority":5},{"target":"mx3.larksuite.com","priority":10}]}}
