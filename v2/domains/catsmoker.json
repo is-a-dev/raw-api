@@ -1,1 +1,1 @@
-{"domain":"catsmoker.is-a.dev","subdomain":"catsmoker","owner":{"username":"catsmoker"},"records":{"CNAME":"catsmoker.vercel.app"}}
+{"domain":"catsmoker.is-a.dev","subdomain":"catsmoker","owner":{"username":"catsmoker"},"records":{"A":["216.198.79.1"]}}
