@@ -1,1 +1,1 @@
-{"domain":"_vercel.aro-arko.is-a.dev","subdomain":"_vercel.aro-arko","owner":{"username":"aro-arko"},"records":{"TXT":"vc-domain-verify=aro-arko.is-a.dev,fc84af82ad48e2d6bdc4"}}
+{"domain":"_vercel.aro-arko.is-a.dev","subdomain":"_vercel.aro-arko","owner":{"username":"aro-arko"},"records":{"TXT":["vc-domain-verify=aro-arko.is-a.dev,fc84af82ad48e2d6bdc4","vc-domain-verify=www.aro-arko.is-a.dev,8c9757a107aec22d4f89"]}}
