@@ -1,0 +1,1 @@
+{"domain":"_dmarc.alias.datac0re.is-a.dev","subdomain":"_dmarc.alias.datac0re","owner":{"username":"Rzbck","instagram":"data_c0re_"},"records":{"TXT":"v=DMARC1; p=none; adkim=r; aspf=r"}}
