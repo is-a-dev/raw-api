@@ -1,1 +1,1 @@
-{"domain":"tiko.is-a.dev","subdomain":"tiko","owner":{"username":"Tokioshi"},"records":{"CNAME":"tiko-folio.vercel.app"}}
+{"domain":"tiko.is-a.dev","subdomain":"tiko","owner":{"username":"Tokioshi"},"records":{"A":["216.198.79.1"]}}
