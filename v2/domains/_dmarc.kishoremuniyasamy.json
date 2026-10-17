@@ -1,0 +1,1 @@
+{"domain":"_dmarc.kishoremuniyasamy.is-a.dev","subdomain":"_dmarc.kishoremuniyasamy","owner":{"username":"KishoreXO"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}
