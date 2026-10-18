@@ -1,0 +1,1 @@
+{"domain":"brightlabs.is-a.dev","subdomain":"brightlabs","owner":{"username":"qashas94"},"records":{"URL":"https://github.com/qashas94","MX":[{"target":"mx1.forwardemail.net","priority":10},{"target":"mx2.forwardemail.net","priority":20}],"TXT":["v=spf1 include:spf.forwardemail.net -all","forward-email=qasmarketai@gmail.com"]}}
