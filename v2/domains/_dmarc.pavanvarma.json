@@ -1,0 +1,1 @@
+{"domain":"_dmarc.pavanvarma.is-a.dev","subdomain":"_dmarc.pavanvarma","owner":{"username":"varma1221"},"records":{"TXT":"v=DMARC1; p=none;"}}
