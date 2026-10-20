@@ -1,0 +1,1 @@
+{"domain":"_dmarc.vrdn.is-a.dev","subdomain":"_dmarc.vrdn","owner":{"username":"Vardhan-IMMIDI"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:vardhangupthaimmidi@gmail.com; ruf=mailto:vardhangupthaimmidi@gmail.com; sp=none; adkim=r; aspf=r; pct=100"}}
