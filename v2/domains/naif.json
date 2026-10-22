@@ -1,1 +1,1 @@
-{"domain":"naif.is-a.dev","subdomain":"naif","owner":{"username":"tugg86722-create"},"records":{"URL":"https://astro-keystatic-b2b.dewellsmell.workers.dev"},"redirect_config":{"redirect_paths":true}}
+{"domain":"naif.is-a.dev","subdomain":"naif","owner":{"username":"tugg86722-create"},"records":{"CNAME":"naif-dtc.pages.dev","MX":[{"target":"mx.zoho.com","priority":10},{"target":"mx2.zoho.com","priority":20},{"target":"mx3.zoho.com","priority":50}],"TXT":["zoho-verification=zb24386103.zmverify.zoho.com","v=spf1 include:zohomail.com ~all"]},"proxied":true}
