@@ -1,0 +1,1 @@
+{"domain":"send.relentlesszombies.rexo.is-a.dev","subdomain":"send.relentlesszombies.rexo","owner":{"username":"TheRealRexo"},"records":{"TXT":"v=spf1 include:amazonses.com ~all","MX":[{"target":"feedback-smtp.us-east-1.amazonses.com","priority":10}]}}
