@@ -1,0 +1,1 @@
+{"domain":"mail._improvmx.mauro.is-a.dev","subdomain":"mail._improvmx.mauro","owner":{"username":"MauroKinjuk"},"records":{"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":"v=spf1 include:spf.improvmx.com ~all"}}
