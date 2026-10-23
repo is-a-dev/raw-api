@@ -1,0 +1,1 @@
+{"domain":"_dmarc.amit.is-a.dev","subdomain":"_dmarc.amit","owner":{"username":"notamitgamer"},"records":{"TXT":["v=DMARC1; p=none;"]}}
