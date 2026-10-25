@@ -1,1 +1,1 @@
-{"domain":"_vercel.mohiitrathor.is-a.dev","subdomain":"_vercel.mohiitrathor","owner":{"username":"mohiitrathor"},"records":{"TXT":"vc-domain-verify=mohiitrathor.is-a.dev,4101795d4d1ace40c526"}}
+{"domain":"_vercel.mohiitrathor.is-a.dev","subdomain":"_vercel.mohiitrathor","owner":{"username":"mohiitrathor"},"records":{"TXT":["vc-domain-verify=mohiitrathor.is-a.dev,4101795d4d1ace40c526","vc-domain-verify=www.mohiitrathor.is-a.dev,e41d597eea4552a8aeb8"]}}
