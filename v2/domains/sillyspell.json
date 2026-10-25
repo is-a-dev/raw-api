@@ -1,1 +1,1 @@
-{"domain":"sillyspell.is-a.dev","subdomain":"sillyspell","owner":{"username":"sunaoshiro"},"records":{"CNAME":"sunaoshiro.github.io"}}
+{"domain":"sillyspell.is-a.dev","subdomain":"sillyspell","owner":{"username":"sunaoshiro"},"records":{"CNAME":"sunaoshiro.github.io","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]},"proxied":true}
