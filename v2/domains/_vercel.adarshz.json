@@ -1,1 +1,1 @@
-{"domain":"_vercel.adarshz.is-a.dev","subdomain":"_vercel.adarshz","owner":{"username":"adars-hz"},"records":{"TXT":"vc-domain-verify=www.adarshz.is-a.dev,40e71c7df2ce3a9076b7"}}
+{"domain":"_vercel.adarshz.is-a.dev","subdomain":"_vercel.adarshz","owner":{"username":"adars-hz"},"records":{"TXT":["vc-domain-verify=adarshz.is-a.dev,83dc7b7f0104317fa656","vc-domain-verify=www.adarshz.is-a.dev,40e71c7df2ce3a9076b7"]}}
