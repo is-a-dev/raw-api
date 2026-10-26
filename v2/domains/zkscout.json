@@ -1,0 +1,1 @@
+{"domain":"zkscout.is-a.dev","subdomain":"zkscout","owner":{"username":"aaannvv"},"records":{"MX":[{"priority":0,"target":"mx1.forwardemail.net"},{"priority":0,"target":"mx2.forwardemail.net"}],"TXT":["v=spf1 a include:spf.forwardemail.net -all","forward-email=zkscoutoidva7@maxxspace.com"]}}
