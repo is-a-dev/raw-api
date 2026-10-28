@@ -1,1 +1,1 @@
-{"domain":"_vercel.jyndrpatel.is-a.dev","subdomain":"_vercel.jyndrpatel","owner":{"username":"Jyndr"},"records":{"TXT":"vc-domain-verify=jyndrpatel.is-a.dev,c7dac3722cd81677a42d"}}
+{"domain":"_vercel.jyndrpatel.is-a.dev","subdomain":"_vercel.jyndrpatel","owner":{"username":"Jyndr"},"records":{"TXT":["vc-domain-verify=jyndrpatel.is-a.dev,c7dac3722cd81677a42d","vc-domain-verify=www.jyndrpatel.is-a.dev,ef978b8e57b3cff5a578"]}}
