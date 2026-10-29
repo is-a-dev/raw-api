@@ -1,0 +1,1 @@
+{"domain":"_dmarc.hamdibenjarrar.is-a.dev","subdomain":"_dmarc.hamdibenjarrar","owner":{"username":"hamdibenjarrar"},"records":{"TXT":"v=DMARC1; p=reject; rua=mailto:hamdibenjarrar@gmail.com"}}
