@@ -1,1 +1,1 @@
-{"domain":"rex.is-a.dev","subdomain":"rex","owner":{"username":"dr1node"},"records":{"CNAME":"dr1node.github.io"}}
+{"domain":"rex.is-a.dev","subdomain":"rex","owner":{"username":"dr1node"},"records":{"A":["216.198.79.1"]}}
