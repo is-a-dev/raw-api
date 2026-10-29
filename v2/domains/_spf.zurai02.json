@@ -1,1 +1,1 @@
-{"domain":"_spf.zurai02.is-a.dev","subdomain":"_spf.zurai02","owner":{"username":"zurai02"},"records":{"TXT":["v=spf1 include:spf.improvmx.com -all"]}}
+{"domain":"_spf.zurai02.is-a.dev","subdomain":"_spf.zurai02","owner":{"username":"zurai02"},"records":{"TXT":["v=spf1 include:spf.improvmx.com include:spf.forwardemail.net -all"]}}
