@@ -1,0 +1,1 @@
+{"domain":"v1-ed25519-20261028._domainkey.nishith.is-a.dev","subdomain":"v1-ed25519-20261028._domainkey.nishith","owner":{"username":"nishithsai00"},"records":{"TXT":"v=DKIM1; k=ed25519; p=iPjSGcPA8BEi/r4dIqO5BWJZOIcfOq/7rKrmK/qDduU="}}
