@@ -1,1 +1,1 @@
-{"domain":"emojipro.is-a.dev","subdomain":"emojipro","owner":{"username":"mohamedovar"},"records":{"CNAME":"emojipro-web.vercel.app"}}
+{"domain":"emojipro.is-a.dev","subdomain":"emojipro","owner":{"username":"mohamedovar"},"records":{"A":["216.198.79.1"]}}
