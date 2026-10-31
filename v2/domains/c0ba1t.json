@@ -1,1 +1,1 @@
-{"domain":"c0ba1t.is-a.dev","subdomain":"c0ba1t","owner":{"username":"0xC0ba1t"},"records":{"CNAME":"0xC0ba1t.github.io"}}
+{"domain":"c0ba1t.is-a.dev","subdomain":"c0ba1t","owner":{"username":"0xC0ba1t"},"records":{"A":["185.199.108.153","185.199.109.153","185.199.110.153","185.199.111.153"],"AAAA":["2606:50c0:8000::153","2606:50c0:8001::153","2606:50c0:8002::153","2606:50c0:8003::153"],"MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]}}
