@@ -1,1 +1,1 @@
-{"domain":"shenanigans.is-a.dev","subdomain":"shenanigans","owner":{"username":"shnflrsc"},"records":{"CNAME":"shenanigans-steel.vercel.app"}}
+{"domain":"shenanigans.is-a.dev","subdomain":"shenanigans","owner":{"username":"shnflrsc"},"records":{"A":["216.198.79.1"]}}
