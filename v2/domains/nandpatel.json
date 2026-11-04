@@ -1,0 +1,1 @@
+{"domain":"nandpatel.is-a.dev","subdomain":"nandpatel","owner":{"username":"bgmihacker-ddos"},"records":{"A":["212.91.26.79"],"MX":[{"target":"mail16.serv00.com","priority":10}],"TXT":["v=spf1 include:serv00.com ~all"]}}
