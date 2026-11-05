@@ -1,1 +1,1 @@
-{"domain":"hossain.is-a.dev","subdomain":"hossain","owner":{"username":"kamrullab"},"records":{"CNAME":"kamrul.pages.dev"}}
+{"domain":"hossain.is-a.dev","subdomain":"hossain","owner":{"username":"kamrullab"},"records":{"CNAME":"kamrul.pages.dev","TXT":["zoho-verification=zb71326163.zmverify.zoho.com"]},"proxied":true}
