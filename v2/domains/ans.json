@@ -1,1 +1,1 @@
-{"domain":"ans.is-a.dev","subdomain":"ans","owner":{"username":"m4mans"},"records":{"CNAME":"m4mans.github.io"}}
+{"domain":"ans.is-a.dev","subdomain":"ans","owner":{"username":"m4mans"},"records":{"A":["216.198.79.1"]}}
