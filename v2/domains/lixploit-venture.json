@@ -1,1 +1,1 @@
-{"domain":"lixploit-venture.is-a.dev","subdomain":"lixploit-venture","owner":{"username":"lixploittechnology-agence"},"records":{"CNAME":"cname.vercel-dns.com"}}
+{"domain":"lixploit-venture.is-a.dev","subdomain":"lixploit-venture","owner":{"username":"lixploittechnology-agence"},"records":{"A":["216.198.79.1"],"MX":[{"target":"mx1.forwardemail.net","priority":10},{"target":"mx2.forwardemail.net","priority":20}],"TXT":["forward-email=lixploittechnology@gmail.com","v=spf1 a mx include:spf.forwardemail.net ~all"]}}
