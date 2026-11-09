@@ -1,0 +1,1 @@
+{"domain":"cwmx3.is-a.dev","subdomain":"cwmx3","owner":{"username":"Code-Wizard-Wilson"},"records":{"CNAME":"code-wizard-wilson.github.io","MX":[{"target":"mx1.forwardemail.net","priority":10},{"target":"mx2.forwardemail.net","priority":20}],"TXT":"forward-email=herpojmi365@gmail.com"},"proxied":true}
