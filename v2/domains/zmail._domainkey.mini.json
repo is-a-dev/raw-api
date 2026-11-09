@@ -1,0 +1,1 @@
+{"domain":"zmail._domainkey.mini.is-a.dev","subdomain":"zmail._domainkey.mini","owner":{"username":"15597771770-cpu"},"records":{"TXT":["v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKYaKEXRruqxnlMSSs8DOfLtogu4By269MV8qUpuGodIhxqlreq5TkT74wbNMuWf5T+6gOdwSWqGbB5RMUaC5R7xe/uazkfeqJ/HgQUmnG64bNB4bkSVgYEQZu+RhVi4zIDe+dJgK6YbBvPlBDh/meYKtpKMPh08f4O6LVsK9aFwIDAQAB"]}}
