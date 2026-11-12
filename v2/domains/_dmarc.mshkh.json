@@ -1,0 +1,1 @@
+{"domain":"_dmarc.mshkh.is-a.dev","subdomain":"_dmarc.mshkh","owner":{"username":"mshkh-dev"},"records":{"TXT":"v=DMARC1; p=quarantine; sp=quarantine; adkim=r; aspf=r; pct=100; rua=mailto:dmarc@astermail.org"}}
