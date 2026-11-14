@@ -1,0 +1,1 @@
+{"domain":"_dmarc.wren-sunfish.is-a.dev","subdomain":"_dmarc.wren-sunfish","owner":{"username":"wren-sunfish"},"records":{"TXT":["v=DMARC1; p=reject; rua=mailto:dmarc@agentmail.to"]}}

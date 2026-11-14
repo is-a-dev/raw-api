@@ -1,1 +1,1 @@
-{"domain":"wren-sunfish.is-a.dev","subdomain":"wren-sunfish","owner":{"username":"wren-sunfish"},"records":{"CNAME":"wren-sunfish.github.io","TXT":["v=spf1 include:spf.mailjet.com ?all"]},"proxied":true}
+{"domain":"wren-sunfish.is-a.dev","subdomain":"wren-sunfish","owner":{"username":"wren-sunfish"},"records":{"CNAME":"wren-sunfish.github.io","TXT":["v=spf1 include:spf.mailjet.com ?all"],"MX":[{"target":"inbound-smtp.us-east-1.amazonaws.com","priority":10}]},"proxied":true}
