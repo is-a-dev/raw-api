@@ -1,1 +1,1 @@
-{"domain":"hosein.is-a.dev","subdomain":"hosein","owner":{"username":"hoseininjast"},"records":{"A":["216.198.79.1"]}}
+{"domain":"hosein.is-a.dev","subdomain":"hosein","owner":{"username":"hoseininjast"},"records":{"CNAME":"hoseinfordev.pages.dev"},"proxied":true}
