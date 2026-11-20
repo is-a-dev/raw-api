@@ -1,1 +1,1 @@
-{"domain":"_vercel.syncwithraj.is-a.dev","subdomain":"_vercel.syncwithraj","owner":{"username":"SyncWithRaj"},"records":{"TXT":"vc-domain-verify=syncwithraj.is-a.dev,35cff8ddbb06f1449ac7"}}
+{"domain":"_vercel.syncwithraj.is-a.dev","subdomain":"_vercel.syncwithraj","owner":{"username":"SyncWithRaj"},"records":{"TXT":["vc-domain-verify=syncwithraj.is-a.dev,35cff8ddbb06f1449ac7","vc-domain-verify=www.syncwithraj.is-a.dev,75a8923281f6602bd40a"]}}
