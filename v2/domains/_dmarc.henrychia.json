@@ -1,0 +1,1 @@
+{"domain":"_dmarc.henrychia.is-a.dev","subdomain":"_dmarc.henrychia","owner":{"username":"henrychiacarerangers-boop"},"records":{"TXT":"v=DMARC1; p=none"}}
