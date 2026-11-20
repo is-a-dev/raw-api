@@ -1,1 +1,1 @@
-{"domain":"_vercel.gerald.is-a.dev","subdomain":"_vercel.gerald","owner":{"username":"PhantomHerald"},"records":{"TXT":"vc-domain-verify=www.gerald.is-a.dev,3690aa4b12959a9a0229"}}
+{"domain":"_vercel.gerald.is-a.dev","subdomain":"_vercel.gerald","owner":{"username":"PhantomHerald"},"records":{"TXT":["vc-domain-verify=www.gerald.is-a.dev,3690aa4b12959a9a0229","vc-domain-verify=www.gerald.is-a.dev,e28cf66bd33be7ef66f9"]}}
