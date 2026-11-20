@@ -1,1 +1,1 @@
-{"domain":"kumar.is-a.dev","subdomain":"kumar","owner":{"username":"kumar-new-dev"},"records":{"CNAME":"kumar-new-dev.github.io"}}
+{"domain":"kumar.is-a.dev","subdomain":"kumar","owner":{"username":"kumar-new-dev"},"records":{"A":["185.199.108.153","185.199.109.153","185.199.110.153","185.199.111.153"],"TXT":["zoho-verification=zb89043424.zmverify.zoho.com"]}}
