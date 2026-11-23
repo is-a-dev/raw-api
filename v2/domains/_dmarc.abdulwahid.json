@@ -1,0 +1,1 @@
+{"domain":"_dmarc.abdulwahid.is-a.dev","subdomain":"_dmarc.abdulwahid","owner":{"username":"abduIwahid"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:contact@abdulwahid.is-a.dev"}}
