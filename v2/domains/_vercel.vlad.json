@@ -1,1 +1,1 @@
-{"domain":"_vercel.vlad.is-a.dev","subdomain":"_vercel.vlad","owner":{"username":"vladbrox"},"records":{"TXT":"vc-domain-verify=vlad.is-a.dev,314033f514abbab7e620"}}
+{"domain":"_vercel.vlad.is-a.dev","subdomain":"_vercel.vlad","owner":{"username":"vladbrox"},"records":{"TXT":["vc-domain-verify=vlad.is-a.dev,314033f514abbab7e620","vc-domain-verify=koito.vlad.is-a.dev,5a3b6834daf1e10be4db"]}}
